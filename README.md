@@ -1,4 +1,4 @@
-<h2 align="center" name="topo"> 📚 Repositório de Projetos - ETEC (Desenvolvimento de Sistemas) </h2>
+<h2 align="center" id="topo"> 📚 Repositório de Projetos - ETEC (Desenvolvimento de Sistemas) </h2>
 
 <div align="center">
 
@@ -114,7 +114,6 @@ Trabalha com estruturas de dados multidimensionais (Matrizes).
 - [Abrindo o Código](#abrindo-LSP)
 - [Visão Geral](#visao-LSP)
 - [Estrutura do Projeto](#estrutura-LSP)
-- [Desenvolvedor](#dev-LSP)
 
 </div>
 
@@ -198,14 +197,13 @@ Preço Total = (Valor Diária × Dias) + (0,20 × KM Percorridos)
   
 ## Índice
   
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+- [Abrindo o Código](#abrindo-SD)
+- [Visão Geral](#visao-SD)
+- [Estrutura do Projeto](#estrutura-SD)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-SD">
 🚀 Abrindo o Código
 </h1>
 
@@ -225,7 +223,7 @@ java SistemaDeDesconto
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-SD">
 Visão Geral
 </h1>
 
@@ -242,7 +240,7 @@ Este programa em Java aplica descontos progressivos em compras utilizando interf
 - Entre R$ 200,00 e R$ 300,00: 10% de desconto
 - Acima de R$ 300,00: 15% de desconto
 
-<h1 align="left">
+<h1 align="left" id="estrutura-SD">
 Estrutura do Projeto
 </h1>
 
@@ -292,14 +290,13 @@ else if (ValorCompra >= 300) → Desconto = 15%
   
 ## Índice
   
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+- [Abrindo o Código](#abrindo-CIV)
+- [Visão Geral](#visao-CIV)
+- [Estrutura do Projeto](#estrutura-CIV)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-CIV">
 🚀 Abrindo o Código
 </h1>
 
@@ -319,7 +316,7 @@ java ValeCardControleIPVA
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-CIV">
 Visão Geral
 </h1>
 
@@ -337,7 +334,7 @@ Este programa em Java orienta o usuário sobre o vencimento do IPVA com base no 
 - Débito Automático
 - Atendimento Presencial
 
-<h1 align="left">
+<h1 align="left" id="estrutura-CIV">
 Estrutura do Projeto
 </h1>
 
@@ -390,14 +387,13 @@ Final 7 → 31/10  |  Final 8 → 30/11  |  Final 0,9 → 31/12
   
 ## Índice
   
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+- [Abrindo o Código](#abrindo-TWF)
+- [Visão Geral](#visao-TWF)
+- [Estrutura do Projeto](#estrutura-TWF)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-TWF">
 🚀 Abrindo o Código
 </h1>
 
@@ -417,7 +413,7 @@ java FeedBackTudoWeb
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-TWF">
 Visão Geral
 </h1>
 
@@ -435,7 +431,7 @@ Este programa em Java realiza uma pesquisa de satisfação do site TudoWeb com 1
 - 2 - Bom
 - 3 - Ruim
 
-<h1 align="left">
+<h1 align="left" id="estrutura-TWF">
 Estrutura do Projeto
 </h1>
 
@@ -486,15 +482,14 @@ Início → Loop 10x → Coleta Resposta → Switch Case → Incrementa Contador
 <div align="left">
   
 ## Índice
-  
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+
+- [Abrindo o Código](#abrindo-CA)
+- [Visão Geral](#visao-CA)
+- [Estrutura do Projeto](#estrutura-CA)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-CA">
 🚀 Abrindo o Código
 </h1>
 
@@ -514,7 +509,7 @@ java CinemaAnalitics
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-CA">
 Visão Geral
 </h1>
 
@@ -535,7 +530,7 @@ Este programa em Java realiza uma análise estatística de feedbacks sobre um fi
 - D - Ruim
 - E - Péssimo
 
-<h1 align="left">
+<h1 align="left" id="estrutura-CA">
 Estrutura do Projeto
 </h1>
 
@@ -591,15 +586,14 @@ Estrutura do Projeto
 <div align="left">
   
 ## Índice
-  
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+
+- [Abrindo o Código](#abrindo-SM)
+- [Visão Geral](#visao-SM)
+- [Estrutura do Projeto](#estrutura-SM)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-SM">
 🚀 Abrindo o Código
 </h1>
 
@@ -619,7 +613,7 @@ java SomaMatriz
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-SM">
 Visão Geral
 </h1>
 
@@ -633,7 +627,7 @@ Este programa em Java trabalha com estruturas de dados multidimensionais (matriz
 - Uso de loops aninhados para percorrer a matriz
 - Utilização de StringBuilder para formatação
 
-<h1 align="left">
+<h1 align="left" id="estrutura-SM">
 Estrutura do Projeto
 </h1>
 
