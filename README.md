@@ -21,12 +21,12 @@
 - [Sobre o Repositório](#-sobre-o-repositório)
 - [Como Executar](#-como-executar)
 - [Projetos Incluídos](#-projetos-incluídos)
-  - [Locadora SPCar](#1-locadora-spcar)
-  - [Sistema de Desconto](#2-sistema-de-desconto)
-  - [Controle de IPVA - Vale Card](#3-controle-de-ipva---vale-card)
-  - [TudoWeb Feedback](#4-tudoweb-feedback)
-  - [Cinema Analitics](#5-cinema-analitics)
-  - [Soma de Matriz 3x3](#6-soma-de-matriz-3x3)
+  - [Locadora SPCar](#-locadora-spcar-)
+  - [Sistema de Desconto](#-sistema-de-desconto-)
+  - [Controle de IPVA - Vale Card](#-controle-de-ipva---vale-card-)
+  - [TudoWeb Feedback](#-tudoweb-feedback-)
+  - [Cinema Analitics](#-cinema-analitics-)
+  - [Soma de Matriz 3x3](#-soma-de-matriz-3x3-)
 - [Desenvolvedor](#-desenvolvedor)
 
 ---
