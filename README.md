@@ -111,14 +111,14 @@ Trabalha com estruturas de dados multidimensionais (Matrizes).
   
 ## Índice
   
-- [Abrindo o Código](#-abrindo-o-código)
-- [Visão Geral](#visão-geral)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Desenvolvedor](#-desenvolvedor)
+- [Abrindo o Código](#abrindo-LSP)
+- [Visão Geral](#visao-LSP)
+- [Estrutura do Projeto](#estrutura-LSP)
+- [Desenvolvedor](#dev-LSP)
 
 </div>
 
-<h1 align="left">
+<h1 align="left" id="abrindo-LSP">
 🚀 Abrindo o Código
 </h1>
 
@@ -138,7 +138,7 @@ java LocadoraSPCar
 E Pronto :D
 ```
 
-<h1 align="left">
+<h1 align="left" id="visao-LSP">
 Visão Geral
 </h1>
 
@@ -150,7 +150,7 @@ Este programa em Java calcula o valor total de um aluguel de carro na locadora S
 - Taxa de R$ 0,20 por KM percorrido
 - Exibição de resumo do aluguel
 
-<h1 align="left">
+<h1 align="left" id="estrutura-LSP">
 Estrutura do Projeto
 </h1>
 
