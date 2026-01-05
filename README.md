@@ -1,6 +1,4 @@
-<h2 align="center"> 📚 Repositório de Projetos - ETEC (Desenvolvimento de Sistemas) </h2>
-
-<a name="topo"></a>
+<h2 align="center" name="topo"> 📚 Repositório de Projetos - ETEC (Desenvolvimento de Sistemas) </h2>
 
 <div align="center">
 
@@ -268,6 +266,14 @@ else if (ValorCompra >= 300) → Desconto = 15%
 
 </div>
 
+<div align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/⬆-Voltar%20ao%20Topo-blue?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
+</div>
+
+---
+
 <h2 align="center"> Controle de IPVA - Vale Card </h2>
 
 <div align="center">
@@ -358,6 +364,14 @@ Final 7 → 31/10  |  Final 8 → 30/11  |  Final 0,9 → 31/12
 
 </div>
 
+<div align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/⬆-Voltar%20ao%20Topo-blue?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
+</div>
+
+---
+
 <h2 align="center"> TudoWeb Feedback </h2>
 
 <div align="center">
@@ -446,6 +460,14 @@ Início → Loop 10x → Coleta Resposta → Switch Case → Incrementa Contador
 ```
 
 </div>
+
+<div align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/⬆-Voltar%20ao%20Topo-blue?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
+</div>
+
+---
 
 <h2 align="center"> Cinema Analitics </h2>
 
@@ -544,6 +566,14 @@ Estrutura do Projeto
 
 </div>
 
+<div align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/⬆-Voltar%20ao%20Topo-blue?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
+</div>
+
+---
+
 <h2 align="center"> Soma de Matriz 3x3 </h2>
 
 <div align="center">
@@ -636,6 +666,14 @@ Entrada → Preenchimento → Cálculo da Soma → Formatação → Exibição
 ```
 
 </div>
+
+<div align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/⬆-Voltar%20ao%20Topo-blue?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
+</div>
+
+---
 
 <h1 align="center">🤝 Desenvolvedor</h1>
 
